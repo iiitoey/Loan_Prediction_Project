@@ -1,0 +1,3 @@
+# Loan_Prediction_Project
+
+CP462 INTRODUCTION TO DATA SCIENCE 
